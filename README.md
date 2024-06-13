@@ -5,6 +5,16 @@
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/guzooski/Azure-Honeynet-SOC)
 
+<h2>🏅 Certifications:</h2>
+  - CompTIA Security+ (Expected June 2024)
+  - TryHackMe SOC Analyst 1 (In Progress)
+  - [LeveldCareers Cybersecurity Masterclass: SOC Analyst](https://app.kajabi.com/certificates/7bba4851)
+  - [Google Cybersecurity Professional](https://www.credly.com/badges/7d5627db-ca2e-4797-94ea-cd6f81ea1748)
+  - [Sumo Logic Search Mastery](https://verify.skilljar.com/c/4x8pyptzojio)
+  - [Sumo Logic Cloud SIEM Fundamentals](https://verify.skilljar.com/c/tvevtn8hvyqx)
+  - [Sumo Logic Cloud SIEM Administration](https://verify.skilljar.com/c/43fesms7h9e2)
+  - [Cisco Certified Entry Networking Technician - CCENT(Retired)](https://cp.certmetrics.com/cisco/en/public/verify/credential/WCLWDVWHKL1E1VKD)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
