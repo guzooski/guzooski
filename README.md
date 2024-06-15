@@ -21,6 +21,18 @@
 
 [linkedin]: https://linkedin.com/in/paulguzski
 
+<h2>🏅 Certifications:</h2>
+
+  - CompTIA Security+ (Expected June 2024)
+  - TryHackMe SOC Analyst 1 (In Progress)
+  - [LeveldCareers Cybersecurity Masterclass: SOC Analyst](https://app.kajabi.com/certificates/7bba4851)
+  - [Google Cybersecurity Professional](https://www.credly.com/badges/7d5627db-ca2e-4797-94ea-cd6f81ea1748)
+  - [Sumo Logic Search Mastery](https://verify.skilljar.com/c/4x8pyptzojio)
+  - [Sumo Logic Cloud SIEM Fundamentals](https://verify.skilljar.com/c/tvevtn8hvyqx)
+  - [Sumo Logic Cloud SIEM Administration](https://verify.skilljar.com/c/43fesms7h9e2)
+  - [Cisco Certified Entry Networking Technician - CCENT(Retired)](https://cp.certmetrics.com/cisco/en/public/verify/credential/WCLWDVWHKL1E1VKD)
+<h2> 🤳 Connect with me:</h2>
+
 <!--
 Original template
 <h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
