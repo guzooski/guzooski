@@ -8,6 +8,7 @@
 <h2>🏅 Certifications:</h2>
 
   - CompTIA Security+
+  - [CompTIA Security+](https://www.credly.com/badges/322b0af1-1931-43d6-a066-d0006f3c94ba/public_url)
   - TryHackMe SOC Level 1 (In Progress)
   - [LeveldCareers Cybersecurity Masterclass: SOC Analyst](https://app.kajabi.com/certificates/7bba4851)
   - [Google Cybersecurity Professional](https://www.credly.com/badges/7d5627db-ca2e-4797-94ea-cd6f81ea1748)
